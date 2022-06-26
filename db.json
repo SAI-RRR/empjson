@@ -1,0 +1,22 @@
+{
+"employees":[
+  {
+    "id":1,  
+    "name":"sai",
+  "address":"23/1w",
+  "age":"34",
+  "salary":"23000"
+  },
+  {
+    "id":2,  
+    "name":"chandra",
+  "address":"23/1w3",
+  "age":"16",
+  "salary":"5555000"
+    
+
+
+  } 
+]
+
+}
